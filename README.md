@@ -1,2 +1,3 @@
-# Preeclampsia_Data
-Source and supplementary datasets supporting the study "Transcriptomics and metabolomics analysis reveals trophoblast cell subpopulations associated with preeclampsia".
+# Preeclampsia Supplementary Data
+
+Supplementary datasets supporting the study "Transcriptomics and metabolomics analysis reveals cell subpopulations of trophoblast cells associated with preeclampsia".
